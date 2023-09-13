@@ -3,8 +3,8 @@ package day06_arithmetic;
 public class House {
     public static void main(String[] args) {
 
-       /*  int i2 = 100;
-         byte b2 = i2; cast. from bigger to small (narrowing)
+         int i2 = 100;
+        // byte b2 = i2; cast. from bigger to small (narrowing)
          byte b2 =(byte)i2;
 
         int a = 500;
@@ -33,7 +33,7 @@ public class House {
         System.out.println(num1 + " / " + num2 + " = " + division);
         System.out.println(num1 + " % " + num2 + " = " + modules);
 
-        */
+
 
 
 

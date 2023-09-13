@@ -8,7 +8,7 @@ public class TabAndNextLine {
         System.out.println("\t\tThis is tabbed 2 times");
 
         System.out.println("Go to the store\nGrab milk and bread\n");
-        // kodlari organize etmek : ctrl+alt+l
+        // organize the codes : ctrl+alt+l
         // highlight everything :   ctrl+a
         // put everything comment : ctrl+/
 

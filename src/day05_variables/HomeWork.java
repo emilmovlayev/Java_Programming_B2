@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class HomeWork {
     public static void main(String[] args) {
-      /*  String fname = "James";
+        String fname = "James";
         String sname = "Bond";
         char gender = 'M';
         byte age = 40;
@@ -19,8 +19,9 @@ public class HomeWork {
         System.out.println("Our employee is " + fname  +  sname + "\n"+ "He is " + age + " years old" + "\n" + comname + " is located in suite " + suite +
                 "\n"+ " This years salary comes to "+ salary + "\n"+ "Other details:"+"\n"+ "Full time:" + arethefulltime + "\n"+ "Married: " + aretheymarried  );
 
-       */
-     /*   String carmodel = "BMW";
+        System.out.println();
+
+        String carmodel = "BMW";
         String drivername = "Emil";
         String licensenum = "MassacES45";
         short speed = 320;
@@ -29,29 +30,29 @@ public class HomeWork {
         System.out.println("My car is: "+ carmodel + "\n" +"Driver name is:"+ drivername + "\n"+
                 "License num of the car is:" + licensenum + "\n" + "The speed of the car is: "+ speed+ "\n"+
                 "Driving type is:"+ isautomatic + "\n"+ "License class is:"+ licencec);
+        System.out.println();
 
-      */
-      /*  String fname = "Elizabeth";
-        String sname = "Mell";
+        String ffname = "Elizabeth";
+        String ssname = "Mell";
         String companyname = "Amazon";
-        int salary = 100000;
+        int ssalary = 100000;
         byte sday = 10;
         byte smonth = 10;
         int syear = 2020;
         boolean fulltime = true;
-        String jobtitle = "progremmer";
+        String jjobtitle = "progremmer";
         String ofaddress = "BostonMA";
 
-        String fullname = fname +" "+ sname;
+        String fullname = ffname +" "+ ssname;
         String fulldate = sday +"/"+ smonth +"/"+ "/"+syear;
         String email = fname + sday + "@" + companyname +".com";
         int Salaryafter3years = 100000 + 200000 + 200000;
 
         System.out.println("Full name:"+fullname+"\n"+"Start date:"+fulldate+"\n"+"Email:"+email+"\n"+
                 Salaryafter3years);
+        System.out.println();
 
-       */
-      /* String name = "Medth";
+       String name = "Medth";
        String genr = "Comedy";
        String duration = "1 hour";
        String releasedate ="10/10/2020";
@@ -63,25 +64,38 @@ public class HomeWork {
         System.out.println("This "+genr+ " movie got a rating "+rating + " out of 100 on MovieGap");
         System.out.println("Duration of the movie is "+ duration );
 
-       */
 
-      /*  int numchild =4;
+        System.out.println();
+        int numchild =4;
         String partname ="Elizabeth";
         String location ="Los Angeles";
-        String jobtitle ="Actor";
+        String jjjobtitle ="Actor";
 
         System.out.println("You will be an "+jobtitle+" in Los angeles, married with "+partname+ " and have "+ numchild+ " children");
 
-       */
-        int age = 130;
-        System.out.println(age);
+        System.out.println();
 
-        int num = 4;
-        num+=5;
-        System.out.println(num);
+        String EmilMovlayev ;
+        EmilMovlayev = "Emil Movlayev";
+        System.out.println(EmilMovlayev);
+        System.out.println();
 
-       
+          byte em = 5;
+          double emm = 12.5;
+          String emmm = "Java";
+          System.out.println("It is in a line: \n" +em + "\n"+ emm + "\n"+ emmm );
+          System.out.println();
 
+          String brand ="Apple";
+          String color = "Black";
+          double price = 499.99;
+          boolean waterResistant = true;
+          boolean smart = true;
+        System.out.println("Brand is the phone:"+brand);
+        System.out.println("Color is the phone:"+color);
+        System.out.println("Price is the phone:"+price);
+        System.out.println("WaterResistant:"+waterResistant);
+        System.out.println("Smart:"+smart);
 
 
 
