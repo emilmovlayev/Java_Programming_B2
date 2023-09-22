@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Homework3 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+       /* Scanner input = new Scanner(System.in);
         System.out.println("Please enter the product:");
         String product = input.nextLine();
         System.out.println("Please enter the price:");
@@ -28,6 +28,8 @@ public class Homework3 {
         double revenue = price * quantity;
         System.out.println(revenue);
 
+
+        */
 
 
 

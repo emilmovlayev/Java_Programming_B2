@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Revenue {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+       /* Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a price:");
         int num = scanner.nextInt();
         System.out.print("Enter a quantity of product:");
@@ -50,6 +50,8 @@ public class Revenue {
 
         System.out.println("today: " +day);
         System.out.println("name: " +name);
+
+        */
 
 
 

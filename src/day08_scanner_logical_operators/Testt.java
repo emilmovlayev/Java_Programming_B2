@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Testt {
     public static void main(String[] args) {
-        Scanner Scanner = new Scanner(System.in);
+     /*   Scanner Scanner = new Scanner(System.in);
         System.out.print("Enter a number:");
         int num = Scanner.nextInt();
         int num2 = 35;
@@ -33,6 +33,8 @@ public class Testt {
 
         System.out.println(num+ " is positive number: "+positive);
         System.out.println(num+ " is negative number: "+negative);
+
+      */
 
 
 

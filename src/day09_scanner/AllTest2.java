@@ -1,10 +1,10 @@
 package day09_scanner;
 
-import java.sql.SQLOutput;
+
 
 public class AllTest2 {
     public static void main(String[] args) {
-       String fname = "Abdulla ";
+    /*   String fname = "Abdulla ";
        String sname = "Yusifov";
        String gender= "Male";
        byte age = 33;
@@ -96,6 +96,8 @@ public class AllTest2 {
         System.out.println("Brand price is: "+price);
         System.out.println("Brand is water resistant: "+waterr);
         System.out.println("Brand is smart: "+smart);
+
+     */
 
 
 
