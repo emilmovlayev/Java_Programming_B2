@@ -19,8 +19,6 @@ public class IndexOfMethod2 {
         String str = "definition";
         //            0123456789
         System.out.println("First i index: " + str.indexOf("i"));
-        System.out.println("First i index: " + str.indexOf('i'));
-        System.out.println("Last i index: " + str.lastIndexOf("i"));
         System.out.println("Last i index: " + str.lastIndexOf('i'));  // you cna do it with the character as well
 
 
