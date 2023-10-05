@@ -4,7 +4,7 @@ public class Replace {
     public static void main(String[] args) {
 
 
-        String str = "java is a language";
+     /*   String str = "java is a language";
         //            0123456789........
 
         String first = str.substring(0, str.indexOf(" ")); // java
@@ -18,7 +18,7 @@ public class Replace {
         String result = second + " " + first;
         System.out.println(result);
 
-
+      */
 
 
 
