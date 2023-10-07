@@ -1,8 +1,10 @@
 package day02_print_statements;
 
+import java.util.Scanner;
+
 public class testt {
     public static void main(String[] args) {
-        int year = 1941;
+       /* int year = 1941;
         System.out.println("In " + year + " Columbus sailed to the ocean blue");
         year = 1942;
         System.out.println("In " + year + " Columbus sailed to the ocean blue");
@@ -33,8 +35,12 @@ public class testt {
         System.out.println(b);
         System.out.println(c);
 
+        */
+
+
+
+
 
     }
-
 
 }
