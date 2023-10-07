@@ -36,9 +36,18 @@ public class testt {
         System.out.println(c);
 
         */
+ //int  num =12345;
 
 
+        for (int i = 5;  i >=1 ;  i--) {
+        System.out.println(i);
+       }
 
+        int num = 5;
+        while (num>=1){
+            System.out.println(num);
+            num--;
+        }
 
 
     }
