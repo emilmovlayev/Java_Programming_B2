@@ -36,18 +36,49 @@ public class testt {
         System.out.println(c);
 
         */
- //int  num =12345;
 
 
-        for (int i = 5;  i >=1 ;  i--) {
-        System.out.println(i);
-       }
-
-        int num = 5;
-        while (num>=1){
+        int num=5;
+        while (num>=1) {
             System.out.println(num);
             num--;
         }
+        for (int i = 5; i >=1 ; i--) {
+            System.out.println(i);
+        }
+        int num1=5;
+        int result=1;
+        while (num1>=1) {
+            result*=num1;
+            num1--;
+        }
+        System.out.println(result);
+
+        int result1=1;
+        for (int i = 5; i >=1 ; i--) {
+            result1*=i;
+
+
+        }
+        System.out.println(result1);
+
+        int num3=4;
+        for (int i = 0; i <=10 ; i++) {
+            System.out.println(num3+"*"+i+"="+(num3*i));
+        }
+
+      String word1 = "Tesla";
+        for (int i = 0; i <word1.length()-1; i++) {
+            System.out.println(word1.charAt(i));
+
+        }
+
+        String word2 = "mine";
+        for (int i = word2.length()-1; i >=0 ; i--) {
+            System.out.println(word2.charAt(i));
+        }
+
+
 
 
     }
