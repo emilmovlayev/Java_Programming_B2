@@ -67,13 +67,11 @@ public class testt {
             System.out.println(num3+"*"+i+"="+(num3*i));
         }
 
-      String word1 = "Tesla";
-        for (int i = 0; i <word1.length()-1; i++) {
-            System.out.println(word1.charAt(i));
-
+    String word = "loop";
+        for (int i = 0; i < word.length(); i++) {
+            System.out.println(word.charAt(i));
         }
-
-        String word2 = "mine";
+        String word2 = "pool";
         for (int i = word2.length()-1; i >=0 ; i--) {
             System.out.println(word2.charAt(i));
         }
