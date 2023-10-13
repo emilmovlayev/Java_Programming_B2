@@ -27,11 +27,6 @@ public class allnewtest {
 
             }
         }
-        System.out.println("AAABCCDEEF");
-        System.out.println(sake2);
-
-        String fake3="AAABCCDEEF";
-        String sake3="";
 
 
 
