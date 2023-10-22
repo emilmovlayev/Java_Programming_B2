@@ -9,11 +9,8 @@ public class Lastcharacter {
                 {"Loops", "are", "getting", "easier"}  // segr
         };
 
-        //System.out.println(words.length); // 3
-        //System.out.println(words[2].length); // 4
 
 
-        // With Traditional Loop / Fori
         for (int i = 0; i < words.length; i++) {
 
             for (int j = 0; j < words[i].length; j++) {
@@ -21,7 +18,6 @@ public class Lastcharacter {
                 System.out.print(eachWord.charAt(eachWord.length()-1));
             }
             System.out.println();
-
         }
 
         System.out.println("---------------------------------------------");
