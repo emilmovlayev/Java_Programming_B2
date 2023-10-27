@@ -1,7 +1,6 @@
-package my_utilities;
-
-public class ArrayUtil {
-
+package day26_methods;
+import my_utilities.ArrayUtil;
+public class Sumofelements {
     public static void main(String[] args) {
 
         int [] arr = { 1, 5, 6, 2};
@@ -39,6 +38,5 @@ public class ArrayUtil {
         }
         return sum;
     }
-
 
 }
