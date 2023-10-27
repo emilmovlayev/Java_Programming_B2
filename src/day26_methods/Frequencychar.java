@@ -1,7 +1,6 @@
-package my_utilities;
+package day26_methods;
 
-public class StringUtil {
-
+public class Frequencychar {
 
     public static void main(String[] args) {
         System.out.println( frequencyOfCharacters("apple", 'p') );
@@ -22,9 +21,8 @@ public class StringUtil {
 
         return count;
     }
-    public static String fixFormat (String name) {
-        return name.substring(0,1).toUpperCase() + name.substring(1).toLowerCase();
-    }
+
+
 
 
 }
