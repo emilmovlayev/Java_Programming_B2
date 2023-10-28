@@ -41,4 +41,27 @@ public class ArrayUtil {
     }
 
 
+
+
+
+    public static int indexOf (int [] numArr, int num) {
+
+        for (int i = 0; i < numArr.length; i++) {
+            if ( numArr[i] == num) {
+                return i;  // 1
+            }
+        }
+        return -1;
+    }
+
+    public static int indexOf (String [] str, String word) {
+        for (int i = 0; i < str.length; i++) {
+            if ( str[i].equals(word)) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+
 }
