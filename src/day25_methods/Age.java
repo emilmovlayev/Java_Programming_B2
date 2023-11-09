@@ -19,7 +19,6 @@ public class Age {
         int birthYear = input.nextInt();
 
         getAge(birthYear);
-
     }
 
 
