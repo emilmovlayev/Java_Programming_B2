@@ -1,8 +1,10 @@
 package day02_print_statements;
 
+import java.util.Scanner;
+
 public class testt {
     public static void main(String[] args) {
-        int year = 1941;
+       /* int year = 1941;
         System.out.println("In " + year + " Columbus sailed to the ocean blue");
         year = 1942;
         System.out.println("In " + year + " Columbus sailed to the ocean blue");
@@ -33,8 +35,50 @@ public class testt {
         System.out.println(b);
         System.out.println(c);
 
+        */
+
+
+        int num=5;
+        while (num>=1) {
+            System.out.println(num);
+            num--;
+        }
+        for (int i = 5; i >=1 ; i--) {
+            System.out.println(i);
+        }
+        int num1=5;
+        int result=1;
+        while (num1>=1) {
+            result*=num1;
+            num1--;
+        }
+        System.out.println(result);
+
+        int result1=1;
+        for (int i = 5; i >=1 ; i--) {
+            result1*=i;
+
+
+        }
+        System.out.println(result1);
+
+        int num3=4;
+        for (int i = 0; i <=10 ; i++) {
+            System.out.println(num3+"*"+i+"="+(num3*i));
+        }
+
+    String word = "loop";
+        for (int i = 0; i < word.length(); i++) {
+            System.out.println(word.charAt(i));
+        }
+        String word2 = "pool";
+        for (int i = word2.length()-1; i >=0 ; i--) {
+            System.out.println(word2.charAt(i));
+        }
+
+
+
 
     }
-
 
 }
