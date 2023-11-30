@@ -1,4 +1,4 @@
-package day_39_polymorphism.book;
+package day39_polymorphism.book;
 
 public abstract class EBook extends Book implements Downloadable {
 
