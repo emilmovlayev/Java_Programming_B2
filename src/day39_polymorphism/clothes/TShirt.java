@@ -1,4 +1,4 @@
-package day_39_polymorphism.clothes;
+package day39_polymorphism.clothes;
 
 public class TShirt extends Clothes {
 
