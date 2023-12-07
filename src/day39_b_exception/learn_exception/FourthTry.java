@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class FourthTry {
     public static void main(String[] args) {
 
-        public static void main(String[] args) {
+
 
             try {
                 System.out.println("Start");
@@ -19,7 +19,7 @@ public class FourthTry {
                 e.printStackTrace();
             }
 
-        }
+
 
     }
 }
